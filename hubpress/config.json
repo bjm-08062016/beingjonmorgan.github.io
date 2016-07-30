@@ -4,7 +4,11 @@
     "repositoryName": "beingjonmorgan.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Being Jon Morgan"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
