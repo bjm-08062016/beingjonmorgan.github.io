@@ -1,2 +1,3 @@
-= summary
+= Content
 
+* link:_posts/2016-07-30-Title-of-the-post.adoc[Test article title]
