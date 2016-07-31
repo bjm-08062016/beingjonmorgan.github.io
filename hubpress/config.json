@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "Being Jon Morgan"
+    "title": "Being Jon Morgan",
+    "disqus": "beingjonmorgan-github-io"
   },
   "socialnetwork": {
     "twitter": "http://www.twitter.com/morga2ja",
