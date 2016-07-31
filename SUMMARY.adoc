@@ -2,4 +2,5 @@
 
 . link:README.adoc[Introduction]
 . link:summary.adoc[summary]
+. readme.md
 
