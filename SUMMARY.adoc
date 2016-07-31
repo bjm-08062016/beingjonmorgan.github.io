@@ -1,6 +1,8 @@
-= Summary
+= Contents
 
-. link:README.adoc[Introduction]
-. link:summary.adoc[summary]
-. readme.md
+* link:_posts/2016-07-25-Final-Test.adoc[Article 1]
+* link:_posts/2016-07-25-finaltest.adoc[Article 2]
+* link:_posts/2016-07-30-Title-of-the-post.adoc[Article 3]
+* link:_posts/2016-07-30-anothertestpost.adoc[Article 4]
+
 
