@@ -1,4 +1,4 @@
 = Contents
 
-
+* link:_posts/2016-07-31-State-of-the-Summer.adoc[State of the Summer]
 
