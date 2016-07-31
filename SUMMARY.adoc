@@ -1,4 +1,5 @@
 = Contents
 
+## August 6, 2016
 * link:_posts/2016-07-31-State-of-the-Summer.adoc[State of the Summer]
 
